@@ -2,9 +2,9 @@
 
 ## 关于骗赞服
 
-**骗赞服（Union of Black Bean）** 是一个专注于 Minecraft 相关开发的开源社区组织。我们致力于开发各类 Minecraft 模组、插件、工具和小游戏地图，为玩家带来更好的游戏体验。
+**骗赞服（Union of Black Bean）** 是一个国内顶尖的骗赞服务器。我们致力使用Vibe Coding开发各类 Minecraft 勾石，为玩家带来更好、或者更差的游戏体验。
 
-组织名称中的"骗赞服"是一个有趣的社区梗名，代表着我们轻松、欢乐的社区氛围。在这里，你可以找到各种实用的 Minecraft 相关工具和项目。
+组织名称中的"骗赞服"是一个有趣的社区梗名，代表着我们轻松、欢乐的社区氛围。在这里，你可以找到各种实用、或者勾石的 Minecraft 相关工具和项目。
 
 - 🌐 官方网站：[ubb.asia](https://ubb.asia/)
 - 📺 Bilibili：[space.bilibili.com/5836069](https://space.bilibili.com/5836069)
@@ -35,7 +35,7 @@
 
 | 项目名称 | 描述 | 语言 | Stars |
 |---------|------|------|-------|
-| [superwy](https://github.com/unionofblackbean/superwy) | a minecraft cyber bread man - 一个赛博脏小豆 | JavaScript | ⭐ 43 |
+| [superwy](https://github.com/unionofblackbean/superwy) | a minecraft cyber bread man - 一个赛博面包人 | JavaScript | ⭐ 43 |
 | [Map-MiniGames](https://github.com/unionofblackbean/Map-MiniGames) | 一个 Minecraft 小游戏地图（基于 wifi-left 的仓库） | mcfunction | ⭐ 0 |
 
 ### 开发工具 / Dev Tools
